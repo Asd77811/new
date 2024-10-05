@@ -10,3 +10,4 @@ console.log(a ** b); // Output: 1000
 
 a++; // a is now 11
 b--; // b is now 2
+//obsessed
